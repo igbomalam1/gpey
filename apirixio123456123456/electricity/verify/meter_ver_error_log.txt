@@ -1,0 +1,1 @@
+{"message":"Invalid API KEY or user account not active","status":"fail"}https://n3tdata.com/api/bill/bill-validation?meter_type=prepaid&disco=9&meter_number=405625688800

@@ -1,0 +1,120 @@
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Undefined array key "amountPaid" in /home/mstdatal/public_html/webhook/monnify/index.php on line 19
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Undefined array key "paymentStatus" in /home/mstdatal/public_html/webhook/monnify/index.php on line 21
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Undefined array key "paidOn" in /home/mstdatal/public_html/webhook/monnify/index.php on line 22
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Undefined array key "paymentReference" in /home/mstdatal/public_html/webhook/monnify/index.php on line 23
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Undefined property: stdClass::$sId in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 345
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Undefined property: stdClass::$sLname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Undefined property: stdClass::$sFname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[06-Dec-2023 21:44:32 UTC] PHP Warning:  Undefined property: stdClass::$sWallet in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 347
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Undefined array key "amountPaid" in /home/mstdatal/public_html/webhook/monnify/index.php on line 19
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Undefined array key "paymentStatus" in /home/mstdatal/public_html/webhook/monnify/index.php on line 21
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Undefined array key "paidOn" in /home/mstdatal/public_html/webhook/monnify/index.php on line 22
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Undefined array key "paymentReference" in /home/mstdatal/public_html/webhook/monnify/index.php on line 23
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Undefined property: stdClass::$sId in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 345
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Undefined property: stdClass::$sLname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Undefined property: stdClass::$sFname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[06-Dec-2023 21:52:30 UTC] PHP Warning:  Undefined property: stdClass::$sWallet in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 347
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Undefined array key "amountPaid" in /home/mstdatal/public_html/webhook/monnify/index.php on line 19
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Undefined array key "paymentStatus" in /home/mstdatal/public_html/webhook/monnify/index.php on line 21
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Undefined array key "paidOn" in /home/mstdatal/public_html/webhook/monnify/index.php on line 22
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Undefined array key "paymentReference" in /home/mstdatal/public_html/webhook/monnify/index.php on line 23
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Undefined property: stdClass::$sId in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 345
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Undefined property: stdClass::$sLname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Undefined property: stdClass::$sFname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[06-Dec-2023 21:58:12 UTC] PHP Warning:  Undefined property: stdClass::$sWallet in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 347
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Undefined array key "amountPaid" in /home/mstdatal/public_html/webhook/monnify/index.php on line 19
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Undefined array key "paymentStatus" in /home/mstdatal/public_html/webhook/monnify/index.php on line 21
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Undefined array key "paidOn" in /home/mstdatal/public_html/webhook/monnify/index.php on line 22
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Undefined array key "paymentReference" in /home/mstdatal/public_html/webhook/monnify/index.php on line 23
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Undefined property: stdClass::$sId in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 345
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Undefined property: stdClass::$sLname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Undefined property: stdClass::$sFname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[12-Dec-2023 17:25:38 UTC] PHP Warning:  Undefined property: stdClass::$sWallet in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 347
+[24-Dec-2023 22:37:26 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[24-Dec-2023 22:37:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[24-Dec-2023 22:37:26 UTC] PHP Warning:  Undefined array key "amountPaid" in /home/mstdatal/public_html/webhook/monnify/index.php on line 19
+[24-Dec-2023 22:37:26 UTC] PHP Warning:  Undefined array key "paymentStatus" in /home/mstdatal/public_html/webhook/monnify/index.php on line 21
+[24-Dec-2023 22:37:26 UTC] PHP Warning:  Undefined array key "paidOn" in /home/mstdatal/public_html/webhook/monnify/index.php on line 22
+[24-Dec-2023 22:37:26 UTC] PHP Warning:  Undefined array key "paymentReference" in /home/mstdatal/public_html/webhook/monnify/index.php on line 23
+[24-Dec-2023 22:37:26 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[24-Dec-2023 22:37:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[24-Dec-2023 22:37:27 UTC] PHP Warning:  Undefined property: stdClass::$sId in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 345
+[24-Dec-2023 22:37:27 UTC] PHP Warning:  Undefined property: stdClass::$sLname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[24-Dec-2023 22:37:27 UTC] PHP Warning:  Undefined property: stdClass::$sFname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[24-Dec-2023 22:37:27 UTC] PHP Warning:  Undefined property: stdClass::$sWallet in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 347
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Undefined array key "amountPaid" in /home/mstdatal/public_html/webhook/monnify/index.php on line 19
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Undefined array key "paymentStatus" in /home/mstdatal/public_html/webhook/monnify/index.php on line 21
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Undefined array key "paidOn" in /home/mstdatal/public_html/webhook/monnify/index.php on line 22
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Undefined array key "paymentReference" in /home/mstdatal/public_html/webhook/monnify/index.php on line 23
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Undefined property: stdClass::$sId in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 345
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Undefined property: stdClass::$sLname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Undefined property: stdClass::$sFname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[24-Dec-2023 22:41:02 UTC] PHP Warning:  Undefined property: stdClass::$sWallet in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 347
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Undefined array key "amountPaid" in /home/mstdatal/public_html/webhook/monnify/index.php on line 19
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Undefined array key "paymentStatus" in /home/mstdatal/public_html/webhook/monnify/index.php on line 21
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Undefined array key "paidOn" in /home/mstdatal/public_html/webhook/monnify/index.php on line 22
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Undefined array key "paymentReference" in /home/mstdatal/public_html/webhook/monnify/index.php on line 23
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Undefined property: stdClass::$sId in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 345
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Undefined property: stdClass::$sLname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Undefined property: stdClass::$sFname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[29-Dec-2023 22:54:35 UTC] PHP Warning:  Undefined property: stdClass::$sWallet in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 347
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Undefined array key "amountPaid" in /home/mstdatal/public_html/webhook/monnify/index.php on line 19
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Undefined array key "paymentStatus" in /home/mstdatal/public_html/webhook/monnify/index.php on line 21
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Undefined array key "paidOn" in /home/mstdatal/public_html/webhook/monnify/index.php on line 22
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Undefined array key "paymentReference" in /home/mstdatal/public_html/webhook/monnify/index.php on line 23
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Undefined property: stdClass::$sId in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 345
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Undefined property: stdClass::$sLname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Undefined property: stdClass::$sFname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[30-Dec-2023 08:17:12 UTC] PHP Warning:  Undefined property: stdClass::$sWallet in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 347
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Undefined array key "amountPaid" in /home/mstdatal/public_html/webhook/monnify/index.php on line 19
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Undefined array key "paymentStatus" in /home/mstdatal/public_html/webhook/monnify/index.php on line 21
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Undefined array key "paidOn" in /home/mstdatal/public_html/webhook/monnify/index.php on line 22
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Undefined array key "paymentReference" in /home/mstdatal/public_html/webhook/monnify/index.php on line 23
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Undefined property: stdClass::$sId in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 345
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Undefined property: stdClass::$sLname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Undefined property: stdClass::$sFname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[14-Jan-2025 17:25:00 UTC] PHP Warning:  Undefined property: stdClass::$sWallet in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 347
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 18
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Undefined array key "amountPaid" in /home/mstdatal/public_html/webhook/monnify/index.php on line 19
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Undefined array key "paymentStatus" in /home/mstdatal/public_html/webhook/monnify/index.php on line 21
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Undefined array key "paidOn" in /home/mstdatal/public_html/webhook/monnify/index.php on line 22
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Undefined array key "paymentReference" in /home/mstdatal/public_html/webhook/monnify/index.php on line 23
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Undefined array key "customer" in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mstdatal/public_html/webhook/monnify/index.php on line 24
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Undefined property: stdClass::$sId in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 345
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Undefined property: stdClass::$sLname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Undefined property: stdClass::$sFname in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 346
+[10-Feb-2025 06:28:35 UTC] PHP Warning:  Undefined property: stdClass::$sWallet in /home/mstdatal/public_html/core/Controllers/ApiAccess.php on line 347

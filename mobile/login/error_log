@@ -1,0 +1,231 @@
+[03-Jan-2023 00:21:31 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:34 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:36 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:37 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:50 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:22:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:22:47 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:22:51 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:22:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:23:03 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:23:24 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:23:28 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:23:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[15-Oct-2023 10:04:51 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:04:52 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:04:54 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:04:57 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:04:59 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:05:01 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[19-Jan-2024 10:38:06 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mstdatal/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/mstdatal/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/mstdatal/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/mstdatal/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/mstdatal/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/mstdatal/public_html/mobile/login/index.php(24): require_once('/home/mstdatal/...')
+#5 {main}
+  thrown in /home/mstdatal/public_html/core/Models/Model.php on line 29
+[22-Jan-2024 17:37:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mstdatal/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/mstdatal/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/mstdatal/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/mstdatal/public_html/core/Controllers/Subscriber.php(44): Model->__construct()
+#3 /home/mstdatal/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/mstdatal/public_html/mobile/login/index.php(24): require_once('/home/mstdatal/...')
+#5 {main}
+  thrown in /home/mstdatal/public_html/core/Models/Model.php on line 29
+[10-Jun-2024 17:26:31 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mstdatal/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/mstdatal/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/mstdatal/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/mstdatal/public_html/core/Controllers/Subscriber.php(44): Model->__construct()
+#3 /home/mstdatal/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/mstdatal/public_html/mobile/login/index.php(24): require_once('/home/mstdatal/...')
+#5 {main}
+  thrown in /home/mstdatal/public_html/core/Models/Model.php on line 29
+[26-Sep-2024 19:46:19 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/mstdatal/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/mstdatal/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/mstdatal/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/mstdatal/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/mstdatal/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/mstdatal/public_html/mobile/login/index.php(24): require_once('/home/mstdatal/...')
+#5 {main}
+  thrown in /home/mstdatal/public_html/core/Models/Model.php on line 29
+[26-Sep-2024 19:46:25 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/mstdatal/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/mstdatal/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/mstdatal/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/mstdatal/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/mstdatal/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/mstdatal/public_html/mobile/login/index.php(24): require_once('/home/mstdatal/...')
+#5 {main}
+  thrown in /home/mstdatal/public_html/core/Models/Model.php on line 29
+[26-Feb-2025 06:51:20 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mstdatal/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/mstdatal/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/mstdatal/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/mstdatal/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/mstdatal/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/mstdatal/public_html/mobile/login/index.php(24): require_once('/home/mstdatal/...')
+#5 {main}
+  thrown in /home/mstdatal/public_html/core/Models/Model.php on line 29
+[12-Jun-2026 15:28:43 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'mstdatal_newrixiotest'@'localhost' (using password: YES) in /home/dnkgaveh/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/dnkgaveh/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/dnkgaveh/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/dnkgaveh/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/dnkgaveh/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/dnkgaveh/public_html/mobile/login/index.php(24): require_once('/home/dnkgaveh/...')
+#5 {main}
+  thrown in /home/dnkgaveh/public_html/core/Models/Model.php on line 29
+[12-Jun-2026 15:28:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'mstdatal_newrixiotest'@'localhost' (using password: YES) in /home/dnkgaveh/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/dnkgaveh/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/dnkgaveh/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/dnkgaveh/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/dnkgaveh/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/dnkgaveh/public_html/mobile/login/index.php(24): require_once('/home/dnkgaveh/...')
+#5 {main}
+  thrown in /home/dnkgaveh/public_html/core/Models/Model.php on line 29
+[12-Jun-2026 15:31:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'mstdatal_newrixiotest'@'localhost' (using password: YES) in /home/dnkgaveh/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/dnkgaveh/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/dnkgaveh/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/dnkgaveh/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/dnkgaveh/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/dnkgaveh/public_html/mobile/login/index.php(24): require_once('/home/dnkgaveh/...')
+#5 {main}
+  thrown in /home/dnkgaveh/public_html/core/Models/Model.php on line 29
+[12-Jun-2026 15:35:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'mstdatal_newrixiotest'@'localhost' (using password: YES) in /home/dnkgaveh/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/dnkgaveh/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/dnkgaveh/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/dnkgaveh/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/dnkgaveh/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/dnkgaveh/public_html/mobile/login/index.php(24): require_once('/home/dnkgaveh/...')
+#5 {main}
+  thrown in /home/dnkgaveh/public_html/core/Models/Model.php on line 29

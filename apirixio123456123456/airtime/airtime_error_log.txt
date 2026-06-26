@@ -1,0 +1,1 @@
+{"error":["Please check entered number is not MTN user 09133044058!"]}

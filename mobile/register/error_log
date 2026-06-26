@@ -1,0 +1,24 @@
+[11-Sep-2023 09:00:24 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/app/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:05:03 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:05:03 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:05:06 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:05:08 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:05:10 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[15-Oct-2023 10:05:13 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/oyexng/public_html/core/helpers/vendor/composer/platform_check.php on line 24
+[01-Dec-2023 01:36:16 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mstdatal_newrixiotest.sitesettings' doesn't exist in /home/mstdatal/public_html/core/Models/SubscriberModel.php:571
+Stack trace:
+#0 /home/mstdatal/public_html/core/Models/SubscriberModel.php(571): PDOStatement->execute()
+#1 /home/mstdatal/public_html/core/Controllers/Subscriber.php(495): SubscriberModel->getSiteSettings()
+#2 /home/mstdatal/public_html/mobile/home/includes/route.php(56): Subscriber->getSiteSettings()
+#3 /home/mstdatal/public_html/mobile/register/index.php(24): require_once('/home/mstdatal/...')
+#4 {main}
+  thrown in /home/mstdatal/public_html/core/Models/SubscriberModel.php on line 571
+[12-Jun-2026 15:31:48 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'mstdatal_newrixiotest'@'localhost' (using password: YES) in /home/dnkgaveh/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/dnkgaveh/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'mstdatal_newrix...', 'mstdatal_newrix...')
+#1 /home/dnkgaveh/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/dnkgaveh/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/dnkgaveh/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/dnkgaveh/public_html/mobile/register/index.php(24): require_once('/home/dnkgaveh/...')
+#5 {main}
+  thrown in /home/dnkgaveh/public_html/core/Models/Model.php on line 29

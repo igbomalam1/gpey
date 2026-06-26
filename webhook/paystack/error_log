@@ -1,0 +1,1519 @@
+[17-Oct-2023 14:28:32 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '10.835', '15.76', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '10.835', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:28:51 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '15.76', '20.685', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '15.76', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:28:53 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '20.685', '25.61', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '20.685', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:28:56 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '25.61', '30.535', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '25.61', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:28:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '30.535', '35.46', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '30.535', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:28:59 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '35.46', '40.385', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '35.46', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:01 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '40.385', '45.31', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '40.385', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:04 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '45.31', '50.235', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '45.31', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:06 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '50.235', '55.16', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '50.235', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:08 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '55.16', '60.085', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '55.16', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:10 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '60.085', '65.01', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '60.085', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:12 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '65.01', '69.935', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '65.01', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:17 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '69.935', '74.86', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '69.935', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:20 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '74.86', '79.785', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '74.86', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:21 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '79.785', '84.71', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '79.785', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:23 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '84.71', '89.635', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '84.71', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:29:25 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '89.635', '94.56', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '89.635', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:11 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '94.56', '99.485', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '94.56', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '99.485', '104.41', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '99.485', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:15 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '104.41', '109.335', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '104.41', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:17 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '109.335', '114.26', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '109.335', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:19 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '114.26', '119.185', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '114.26', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:21 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '119.185', '124.11', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '119.185', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:22 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '124.11', '129.035', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '124.11', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:24 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '129.035', '133.96', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '129.035', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:26 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '133.96', '138.885', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '133.96', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:28 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '138.885', '143.81', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '138.885', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:31 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '143.81', '148.735', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '143.81', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:33 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '148.735', '153.66', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '148.735', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:36 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '153.66', '158.585', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '153.66', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:40 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '158.585', '163.51', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '158.585', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:42 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '163.51', '168.435', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '163.51', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:55 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '168.435', '173.36', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '168.435', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:30:57 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '173.36', '178.285', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '173.36', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:00 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '178.285', '183.21', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '178.285', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:09 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '183.21', '188.135', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '183.21', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:11 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '188.135', '193.06', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '188.135', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '193.06', '197.985', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '193.06', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:15 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '197.985', '202.91', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '197.985', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:17 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '202.91', '207.835', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '202.91', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:19 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '207.835', '212.76', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '207.835', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:21 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '212.76', '217.685', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '212.76', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:31 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '217.685', '222.61', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '217.685', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:33 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '222.61', '227.535', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '222.61', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:35 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '227.535', '232.46', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '227.535', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:37 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '232.46', '237.385', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '232.46', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:40 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '237.385', '242.31', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '237.385', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '242.31', '247.235', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '242.31', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:43 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '247.235', '252.16', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '247.235', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:46 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '252.16', '257.085', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '252.16', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:48 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '257.085', '262.01', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '257.085', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:50 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '262.01', '266.935', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '262.01', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:52 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '266.935', '271.86', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '266.935', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:54 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '271.86', '276.785', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '271.86', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:56 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '276.785', '281.71', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '276.785', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:31:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '281.71', '286.635', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '281.71', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:32:00 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '286.635', '291.56', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '286.635', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:32:02 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '291.56', '296.485', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '291.56', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:32:04 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '296.485', '301.41', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '296.485', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:32:06 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '301.41', '306.335', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '301.41', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:38:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '306.335', '311.26', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '306.335', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:39:14 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '311.26', '316.185', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '311.26', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:39:16 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '316.185', '321.11', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '316.185', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 14:39:18 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '321.11', '326.035', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '321.11', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:23:55 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '326.035', '330.96', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '326.035', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:23:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '330.96', '335.885', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '330.96', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:01 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '335.885', '340.81', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '335.885', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:02 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '340.81', '345.735', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '340.81', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:06 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '345.735', '350.66', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '345.735', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:55 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '350.66', '355.585', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '350.66', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:56 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '355.585', '360.51', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '355.585', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:57 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '360.51', '365.435', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '360.51', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:57 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '365.435', '370.36', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '365.435', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '370.36', '375.285', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '370.36', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '375.285', '380.21', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '375.285', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '380.21', '385.135', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '380.21', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '385.135', '390.06', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '385.135', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:59 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '390.06', '394.985', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '390.06', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:59 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '394.985', '399.91', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '394.985', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:24:59 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '399.91', '404.835', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '399.91', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:00 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '404.835', '409.76', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '404.835', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:01 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '409.76', '414.685', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '409.76', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:01 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '414.685', '419.61', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '414.685', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:02 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '419.61', '424.535', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '419.61', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:03 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '424.535', '429.46', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '424.535', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:03 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '429.46', '434.385', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '429.46', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:04 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '434.385', '439.31', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '434.385', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:04 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '439.31', '444.235', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '439.31', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:05 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '444.235', '449.16', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '444.235', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:06 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '449.16', '454.085', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '449.16', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:06 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '454.085', '459.01', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '454.085', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:06 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '459.01', '463.935', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '459.01', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:07 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '463.935', '468.86', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '463.935', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:09 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '468.86', '473.785', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '468.86', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:10 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '473.785', '478.71', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '473.785', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:11 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '478.71', '483.635', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '478.71', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:11 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '483.635', '488.56', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '483.635', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:12 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '488.56', '493.485', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '488.56', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:12 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '493.485', '498.41', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '493.485', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:12 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '493.485', '498.41', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '493.485', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '498.41', '503.335', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '498.41', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:14 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '503.335', '508.26', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '503.335', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:14 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '508.26', '513.185', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '508.26', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:15 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '513.185', '518.11', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '513.185', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:16 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '518.11', '523.035', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '518.11', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:16 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '523.035', '527.96', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '523.035', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:16 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '527.96', '532.885', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '527.96', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:17 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '532.885', '537.81', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '532.885', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:17 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '537.81', '542.735', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '537.81', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:18 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '542.735', '547.66', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '542.735', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:19 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '547.66', '552.585', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '547.66', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:20 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '552.585', '557.51', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '552.585', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:21 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '557.51', '562.435', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '557.51', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:22 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '562.435', '567.36', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '562.435', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:22 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '567.36', '572.285', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '567.36', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:22 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '572.285', '577.21', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '572.285', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:23 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '577.21', '582.135', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '577.21', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:23 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '582.135', '587.06', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '582.135', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:24 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '587.06', '591.985', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '587.06', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:24 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '591.985', '596.91', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '591.985', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:24 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '596.91', '601.835', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '596.91', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:25 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '601.835', '606.76', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '601.835', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:25 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '606.76', '611.685', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '606.76', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:26 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '611.685', '616.61', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '611.685', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:26 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '616.61', '621.535', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '616.61', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:27 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '621.535', '626.46', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '621.535', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:28 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '626.46', '631.385', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '626.46', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:28 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '631.385', '636.31', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '631.385', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:28 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '636.31', '641.235', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '636.31', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:38 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '641.235', '646.16', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '641.235', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '646.16', '651.085', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '646.16', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:40 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '651.085', '656.01', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '651.085', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '656.01', '660.935', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '656.01', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:43 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '660.935', '665.86', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '660.935', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:44 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '665.86', '670.785', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '665.86', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:46 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '670.785', '675.71', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '670.785', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:47 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '675.71', '680.635', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '675.71', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:48 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '680.635', '685.56', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '680.635', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:51 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '685.56', '690.485', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '685.56', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:53 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '690.485', '695.41', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '690.485', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:55 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '695.41', '700.335', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '695.41', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:56 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '700.335', '705.26', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '700.335', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:25:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '705.26', '710.185', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '705.26', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:26:02 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '710.185', '715.11', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '710.185', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:26:05 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '715.11', '720.035', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '715.11', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:26:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '720.035', '724.96', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '720.035', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:26:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '724.96', '729.885', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '724.96', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:26:48 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '729.885', '734.81', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '729.885', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:26:51 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '734.81', '739.735', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '734.81', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:26:55 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '739.735', '744.66', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '739.735', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:26:57 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '744.66', '749.585', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '744.66', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:26:59 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '749.585', '754.51', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '749.585', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:00 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '754.51', '759.435', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '754.51', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:02 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '759.435', '764.36', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '759.435', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:04 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '764.36', '769.285', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '764.36', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:07 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '769.285', '774.21', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '769.285', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:08 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '774.21', '779.135', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '774.21', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:10 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '779.135', '784.06', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '779.135', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:11 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '784.06', '788.985', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '784.06', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:14 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '788.985', '793.91', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '788.985', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:16 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '793.91', '798.835', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '793.91', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:17 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '798.835', '803.76', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '798.835', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:18 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '803.76', '808.685', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '803.76', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:22 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '808.685', '813.61', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '808.685', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:24 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '813.61', '818.535', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '813.61', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:26 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '818.535', '823.46', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '818.535', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:28 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '823.46', '828.385', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '823.46', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:30 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '828.385', '833.31', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '828.385', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:31 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '833.31', '838.235', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '833.31', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:33 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '838.235', '843.16', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '838.235', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:34 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '843.16', '848.085', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '843.16', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:46 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '848.085', '853.01', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '848.085', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:48 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '853.01', '857.935', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '853.01', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:27:56 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '857.935', '862.86', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '857.935', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:01 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '862.86', '867.785', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '862.86', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:03 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '867.785', '872.71', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '867.785', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:04 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '872.71', '877.635', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '872.71', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:06 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '877.635', '882.56', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '877.635', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:09 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '882.56', '887.485', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '882.56', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:11 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '887.485', '892.41', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '887.485', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '892.41', '897.335', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '892.41', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:16 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '897.335', '902.26', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '897.335', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:34 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '902.26', '907.185', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '902.26', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:36 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '907.185', '912.11', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '907.185', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:38 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '912.11', '917.035', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '912.11', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:44 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '917.035', '921.96', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '917.035', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:28:52 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '921.96', '926.885', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '921.96', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:06 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '926.885', '931.81', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '926.885', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:07 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '931.81', '936.735', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '931.81', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:08 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '936.735', '941.66', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '936.735', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:09 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '941.66', '946.585', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '941.66', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:10 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '946.585', '951.51', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '946.585', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:12 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '951.51', '956.435', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '951.51', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '956.435', '961.36', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '956.435', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:14 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '961.36', '966.285', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '961.36', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:20 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '966.285', '971.21', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '966.285', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:21 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '971.21', '976.135', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '971.21', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:23 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '976.135', '981.06', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '976.135', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:24 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '981.06', '985.985', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '981.06', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:26 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '985.985', '990.91', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '985.985', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:27 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '990.91', '995.835', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '990.91', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:28 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '995.835', '1000.76', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '995.835', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:29 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1000.76', '1005.685', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1000.76', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:31 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1005.68', '1010.605', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1005.68', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:32 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1010.6', '1015.525', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1010.6', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:34 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1015.53', '1020.455', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1015.53', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:44 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1020.46', '1025.385', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1020.46', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:46 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1025.39', '1030.315', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1025.39', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:48 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1030.31', '1035.235', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1030.31', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:50 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1035.23', '1040.155', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1035.23', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:53 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1040.16', '1045.085', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1040.16', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:55 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1045.08', '1050.005', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1045.08', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:57 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1050.01', '1054.935', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1050.01', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:29:57 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1054.94', '1059.865', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1054.94', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:30:03 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1059.86', '1064.785', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1059.86', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:30:18 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1064.79', '1069.715', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1064.79', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301
+[17-Oct-2023 17:30:19 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7zugm72479' for key 'transref' in /home/oyexng/public_html/core/Models/ApiModel.php:301
+Stack trace:
+#0 /home/oyexng/public_html/core/Models/ApiModel.php(301): PDOStatement->execute()
+#1 /home/oyexng/public_html/core/Controllers/ApiAccess.php(329): ApiModel->recordTransaction(11, 'Wallet Topup', 'Wallet funding ...', '7zugm72479', '4.925', '1069.71', '1074.635', 0)
+#2 /home/oyexng/public_html/webhook/paystack/index.php(41): ApiAccess->recordPaystackTransaction('11', 'Wallet Topup', 'Wallet funding ...', 4.925, '1069.71', '7zugm72479', '0')
+#3 {main}
+  thrown in /home/oyexng/public_html/core/Models/ApiModel.php on line 301

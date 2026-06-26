@@ -1,0 +1,18 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/dnkgaveh/public_html/
+    - /bin/cp -r assets $DEPLOYPATH
+    - /bin/cp -r core $DEPLOYPATH
+    - /bin/cp -r css $DEPLOYPATH
+    - /bin/cp -r fonts $DEPLOYPATH
+    - /bin/cp -r images $DEPLOYPATH
+    - /bin/cp -r js $DEPLOYPATH
+    - /bin/cp -r login $DEPLOYPATH
+    - /bin/cp -r mobile $DEPLOYPATH
+    - /bin/cp -r mstadmindashboard $DEPLOYPATH
+    - /bin/cp -r signup $DEPLOYPATH
+    - /bin/cp -r static $DEPLOYPATH
+    - /bin/cp -r webhook $DEPLOYPATH
+    - /bin/cp -r app $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH

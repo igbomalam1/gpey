@@ -1,0 +1,35 @@
+[11-Mar-2024 21:53:11 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home/mstdatal/public_html/core/Models/ApiModel.php:318
+Stack trace:
+#0 /home/mstdatal/public_html/core/Models/ApiModel.php(318): PDOStatement->execute()
+#1 /home/mstdatal/public_html/core/Controllers/ApiAccess.php(296): ApiModel->updateTransactionStatus(74, '98671710190232', 99, 1)
+#2 /home/mstdatal/public_html/apirixio123456123456/airtime/index.php(299): ApiAccess->updateTransactionStatus('74', '98671710190232', 99, '1')
+#3 {main}
+  thrown in /home/mstdatal/public_html/core/Models/ApiModel.php on line 318
+[16-Mar-2024 19:39:02 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home/mstdatal/public_html/core/Models/ApiModel.php:345
+Stack trace:
+#0 /home/mstdatal/public_html/core/Models/ApiModel.php(345): PDOStatement->execute()
+#1 /home/mstdatal/public_html/core/Controllers/ApiAccess.php(296): ApiModel->updateTransactionStatus(47, '43521710614035', 69.3, 0)
+#2 /home/mstdatal/public_html/apirixio123456123456/airtime/index.php(286): ApiAccess->updateTransactionStatus('47', '43521710614035', 69.3, '0')
+#3 {main}
+  thrown in /home/mstdatal/public_html/core/Models/ApiModel.php on line 345
+[14-Aug-2024 02:17:24 Africa/Lagos] PHP Warning:  Attempt to read property "AccessToken" on null in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 128
+[14-Aug-2024 02:20:02 Africa/Lagos] PHP Warning:  Attempt to read property "AccessToken" on null in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 128
+[14-Aug-2024 02:21:47 Africa/Lagos] PHP Warning:  Attempt to read property "AccessToken" on null in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 128
+[14-Aug-2024 02:24:32 Africa/Lagos] PHP Warning:  Attempt to read property "AccessToken" on null in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 128
+[14-Oct-2024 16:51:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[14-Oct-2024 16:51:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[19-Oct-2024 09:34:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[19-Oct-2024 09:34:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[31-Oct-2024 13:00:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[31-Oct-2024 13:00:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[15-Nov-2024 12:12:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[15-Nov-2024 12:12:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[04-Dec-2024 14:00:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[04-Dec-2024 14:00:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[04-Dec-2024 14:02:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[04-Dec-2024 14:02:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[04-Dec-2024 14:04:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[04-Dec-2024 14:04:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[04-Dec-2024 14:05:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[04-Dec-2024 14:05:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/mstdatal/public_html/core/Controllers/Airtime.php on line 78
+[14-Jun-2026 19:14:31 Africa/Lagos] PHP Warning:  Attempt to read property "AccessToken" on null in /home/dnkgaveh/public_html/core/Controllers/Airtime.php on line 128
