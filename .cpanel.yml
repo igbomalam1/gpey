@@ -17,3 +17,4 @@ deployment:
     - /bin/cp -r app $DEPLOYPATH
     - /bin/cp .htaccess $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
