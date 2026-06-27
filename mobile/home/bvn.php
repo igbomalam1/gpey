@@ -31,14 +31,34 @@
             <?php if($result && $result->status == "error"): ?>
             <div class="alert alert-danger text-center font-13 mb-3"><i class="fa fa-exclamation-circle me-2"></i> <?php echo $result->msg; ?></div>
             <?php endif; ?>
+            <?php
+            // Build BVN plan options: use DB pricing, fallback to seeded defaults
+            $bvnPlans = [];
+            if (is_array($pricing) || is_object($pricing)) {
+                foreach ($pricing as $p) {
+                    $price = (float)$p->user_price;
+                    $bvnPlans[] = [
+                        'id' => $p->id,
+                        'name' => $p->plan_name,
+                        'price' => $price > 0 ? $price : 0
+                    ];
+                }
+            }
+            if (empty($bvnPlans)) {
+                $bvnPlans = [
+                    ['id' => 0, 'name' => 'BVN Verification', 'price' => 100],
+                    ['id' => 0, 'name' => 'BVN Modification', 'price' => 500],
+                ];
+            }
+            ?>
             <form method="post">
                 <div class="input-style input-style-always-active has-borders mb-4">
                     <label class="color-theme opacity-80 font-700 font-12">Service Type</label>
                     <select name="plan" class="form-control" required>
                         <option value="">Select Service</option>
-                        <?php if(is_array($pricing) || is_object($pricing)): foreach($pricing as $p): ?>
-                        <option value="<?php echo $p->id; ?>"><?php echo $p->plan_name; ?> - N<?php echo number_format($p->user_price); ?></option>
-                        <?php endforeach; endif; ?>
+                        <?php foreach ($bvnPlans as $opt): ?>
+                        <option value="<?php echo $opt['id']; ?>"><?php echo $opt['name']; ?> - N<?php echo number_format($opt['price']); ?></option>
+                        <?php endforeach; ?>
                     </select>
                 </div>
                 <div class="input-style input-style-always-active has-borders mb-4">

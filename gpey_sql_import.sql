@@ -11,9 +11,11 @@ CREATE TABLE IF NOT EXISTS `nin_pricing` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+TRUNCATE TABLE `nin_pricing`;
 INSERT INTO `nin_pricing` (`slip_type`, `user_price`, `agent_price`, `vendor_price`, `status`) VALUES
-('NIN Slip', 200.00, 180.00, 150.00, 'On'),
-('NIN Premium Slip', 350.00, 300.00, 250.00, 'On');
+('premium-nin', 350.00, 300.00, 250.00, 'On'),
+('standard-nin', 200.00, 180.00, 150.00, 'On'),
+('regular-nin', 100.00, 80.00, 50.00, 'On');
 
 -- ============================================================
 -- Services Pricing Table (Buy Number, Buy Logs, Boost Socials, BVN, CAC Registration)

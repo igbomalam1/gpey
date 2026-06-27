@@ -108,17 +108,42 @@
             </div>
             <?php endif; ?>
 
+            <?php
+            // Build slip type options: use DB pricing, fallback to defaults
+            $ninSlipTypes = [];
+            if (is_array($pricing) || is_object($pricing)) {
+                foreach ($pricing as $p) {
+                    $price = (float)$p->user_price;
+                    $ninSlipTypes[] = [
+                        'value' => $p->slip_type,
+                        'label' => $p->slip_type,
+                        'price' => $price > 0 ? $price : 0
+                    ];
+                }
+            }
+            if (empty($ninSlipTypes)) {
+                $ninSlipTypes = [
+                    ['value' => 'premium-nin', 'label' => 'Premium NIN', 'price' => 350],
+                    ['value' => 'standard-nin', 'label' => 'Standard NIN', 'price' => 200],
+                    ['value' => 'regular-nin', 'label' => 'Regular NIN', 'price' => 100],
+                ];
+            }
+            ?>
             <form method="post" class="ninForm">
                 <div class="input-style input-style-always-active has-borders mb-4">
                     <label class="color-theme opacity-80 font-700 font-12">Slip Type</label>
-                    <select name="slip_type" class="form-control" required>
+                    <select name="slip_type" id="slip_type" class="form-control" required onchange="showNinPreview(this.value)">
                         <option value="">Select Slip Type</option>
-                        <?php if(is_array($pricing) || is_object($pricing)): foreach($pricing as $p): ?>
-                        <option value="<?php echo $p->slip_type; ?>">
-                            <?php echo $p->slip_type; ?> - N<?php echo number_format($p->user_price); ?>
+                        <?php foreach ($ninSlipTypes as $opt): ?>
+                        <option value="<?php echo $opt['value']; ?>" data-price="<?php echo $opt['price']; ?>">
+                            <?php echo $opt['label']; ?> - N<?php echo number_format($opt['price']); ?>
                         </option>
-                        <?php endforeach; endif; ?>
+                        <?php endforeach; ?>
                     </select>
+                </div>
+
+                <div id="ninPreview" class="text-center mb-4" style="display:none;">
+                    <img id="ninPreviewImg" src="" alt="NIN Sample" style="max-width:100%; border-radius:12px; border:1px solid #EFEFF1; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
                 </div>
 
                 <div class="input-style input-style-always-active has-borders mb-4">
@@ -141,6 +166,21 @@
                     <i class="fa fa-check-circle mr-2"></i> Verify NIN
                 </button>
             </form>
+
+            <script>
+            function showNinPreview(value) {
+                var preview = document.getElementById('ninPreview');
+                var img = document.getElementById('ninPreviewImg');
+                if (!value) {
+                    preview.style.display = 'none';
+                    img.src = '';
+                    return;
+                }
+                img.src = '../../images/' + value + '.png';
+                img.onload = function() { preview.style.display = 'block'; };
+                img.onerror = function() { preview.style.display = 'none'; };
+            }
+            </script>
 
             <?php endif; ?>
 
