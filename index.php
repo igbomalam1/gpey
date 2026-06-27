@@ -1,1 +1,1 @@
-<?php include 'index.html'; ?>
+<?php header("Location: mobile/"); ?>
