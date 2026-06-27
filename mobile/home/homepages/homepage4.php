@@ -7,7 +7,8 @@
 .dash-label { font-size:13px; font-weight:500; color:#1A1A1A; text-align:center; line-height:1.3; }
 
 .services-heading { font-size:16px; font-weight:700; color:#1A1A1A; margin-bottom:4px; }
-.services-underline { width:28px; height:3px; background:#2563EB; border-radius:2px; margin-bottom:16px; }
+.services-underline { width:28px; height:3px; background:<?php echo $color; ?>; border-radius:2px; margin-bottom:16px; }
+.dash-balance-card { background:#FFFFFF; border-radius:18px; border:1px solid #EFEFF1; box-shadow:0 1px 4px rgba(0,0,0,0.04); padding:16px 18px; }
 </style>
 
 <div class="card notch-clear rounded-0 mb-n5 mt-0" data-card-height="200" style="background-color:<?php echo $color; ?>;">
@@ -16,16 +17,18 @@
         <h3 class="font-17 float-end color-white">(<?php echo $controller->formatUserType($data->sType); ?>)</h3>
         <div class="clearfix"></div>
     </div>
-    <div class="card card-style mt-0 mb-5" style="height:50px;">
-        <div class="card-center">
-            <h3 class="float-start font-16 ps-3 pt-2">
-                <span style="margin-right:10px;">Balance</span>
-                <span id="hideEyeDiv" style="display:none;">&#8358;<?php echo number_format($data->sWallet); ?></span>
-                <span id="openEyeDiv">&#8358; *********</span>
-                <span id="hideEye"><i class="fa fa-eye-slash" style="margin-left:20px;" aria-hidden="true"></i></span>
-                <span id="openEye" style="display:none; margin-left:20px;"><i class="fa fa-eye" aria-hidden="true"></i></span>
-            </h3>
-            <a href="fund-wallet" class="btn float-end" style="background-color:<?php echo $color; ?>; border-radius:5rem; margin-right:7px"><b>Fund</b></a>
+    <div class="dash-balance-card mt-0 mb-5">
+        <div class="d-flex align-items-center justify-content-between">
+            <div>
+                <div class="font-12" style="color:#6B7280; margin-bottom:2px;">Wallet Balance</div>
+                <div class="font-20 font-700" style="color:#1A1A1A;">
+                    <span id="hideEyeDiv" style="display:none;">&#8358;<?php echo number_format($data->sWallet); ?></span>
+                    <span id="openEyeDiv">&#8358; *********</span>
+                    <span id="hideEye" style="cursor:pointer;"><i class="fa fa-eye-slash" style="font-size:15px; margin-left:6px; color:#6B7280;"></i></span>
+                    <span id="openEye" style="display:none; cursor:pointer;"><i class="fa fa-eye" style="font-size:15px; margin-left:6px; color:#6B7280;"></i></span>
+                </div>
+            </div>
+            <a href="fund-wallet" class="btn" style="background-color:<?php echo $color; ?>; color:#FFFFFF; border-radius:5rem; padding:8px 22px; font-weight:600; font-size:14px;">Fund</a>
         </div>
     </div>
 </div>

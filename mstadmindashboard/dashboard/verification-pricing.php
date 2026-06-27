@@ -1,3 +1,9 @@
+<style>
+.filter-tabs { margin-bottom: 16px; }
+.filter-tabs .btn { border-radius: 20px; margin-right: 4px; margin-bottom: 4px; font-size: 13px; padding: 4px 14px; }
+.filter-tabs .btn.active { box-shadow: 0 0 0 2px rgba(0,0,0,0.1); }
+</style>
+
 <div class="row">
     <div class="col-12">
         <div class="box">
@@ -8,6 +14,14 @@
               </button>
             </div>
             <div class="box-body">
+                <div class="filter-tabs">
+                    <button class="btn btn-sm btn-primary active" data-filter="all" onclick="filterTable('all')">All</button>
+                    <button class="btn btn-sm btn-outline-primary" data-filter="buy_number" onclick="filterTable('buy_number')">Buy Number</button>
+                    <button class="btn btn-sm btn-outline-primary" data-filter="buy_logs" onclick="filterTable('buy_logs')">Buy Logs</button>
+                    <button class="btn btn-sm btn-outline-primary" data-filter="boost_socials" onclick="filterTable('boost_socials')">Boost Socials</button>
+                    <button class="btn btn-sm btn-outline-primary" data-filter="bvn" onclick="filterTable('bvn')">BVN</button>
+                    <button class="btn btn-sm btn-outline-primary" data-filter="cac_registration" onclick="filterTable('cac_registration')">CAC Registration</button>
+                </div>
                 <div class="table-responsive">
                   <table id="example1" class="table table-sm table-bordered table-striped">
                     <thead>
@@ -34,7 +48,7 @@
                             "cac_registration" => "CAC Registration"
                         ];
                         if(is_array($results) && count($results) > 0){foreach($results as $result){   ?>
-                        <tr>
+                        <tr data-service-type="<?php echo $result->service_type; ?>">
                             <td><?php echo htmlentities($cnt);?></td>
                             <td><?php echo $serviceLabels[$result->service_type] ?? $result->service_type; ?></td>
                             <td><?php echo $result->plan_name; ?></td>
@@ -58,6 +72,23 @@
           </div>
     </div>
 </div>
+
+<script>
+function filterTable(filter) {
+    var rows = document.querySelectorAll('#example1 tbody tr[data-service-type]');
+    var btns = document.querySelectorAll('.filter-tabs .btn');
+    btns.forEach(function(b) { b.classList.remove('active'); b.classList.remove('btn-primary'); b.classList.add('btn-outline-primary'); });
+    var activeBtn = document.querySelector('.filter-tabs .btn[data-filter="' + filter + '"]');
+    if (activeBtn) { activeBtn.classList.add('active'); activeBtn.classList.add('btn-primary'); activeBtn.classList.remove('btn-outline-primary'); }
+    rows.forEach(function(row) {
+        if (filter === 'all' || row.getAttribute('data-service-type') === filter) {
+            row.style.display = '';
+        } else {
+            row.style.display = 'none';
+        }
+    });
+}
+</script>
 
 <!-- Add Verification Pricing Modal -->
 <div class="modal fade" data-backdrop="false" id="addVerificationPricing" tabindex="-1">
