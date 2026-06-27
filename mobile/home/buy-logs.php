@@ -32,7 +32,7 @@
             <div class="alert alert-danger text-center font-13 mb-3"><i class="fa fa-exclamation-circle me-2"></i> <?php echo $result->msg; ?></div>
             <?php endif; ?>
             <form method="post">
-                <div class="input-style input-style-always-active has-borders mb-3">
+                <div class="input-style input-style-always-active has-borders mb-4">
                     <label class="color-theme opacity-80 font-700 font-12">Plan</label>
                     <select name="plan" class="form-control" required>
                         <option value="">Select Plan</option>
@@ -41,7 +41,7 @@
                         <?php endforeach; endif; ?>
                     </select>
                 </div>
-                <div class="input-style input-style-always-active has-borders mb-3">
+                <div class="input-style input-style-always-active has-borders mb-4">
                     <label class="color-theme opacity-80 font-700 font-12">Platform</label>
                     <select name="platform" class="form-control" required>
                         <option value="">Select Platform</option>
@@ -52,7 +52,8 @@
                         <option value="Gmail">Gmail</option>
                     </select>
                 </div>
-                <button type="submit" name="purchase-log" style="width:100%" class="btn btn-full btn-l font-600 font-15 gradient-highlight mt-2 rounded-s"><i class="fa fa-shopping-cart mr-2"></i> Purchase Log</button>
+                <hr class="mt-4 mb-4">
+                <button type="submit" name="purchase-log" style="width:100%" class="btn btn-full btn-l font-600 font-16 gradient-highlight rounded-s"><i class="fa fa-shopping-cart mr-2"></i> Purchase Log</button>
             </form>
             <?php endif; ?>
         </div>

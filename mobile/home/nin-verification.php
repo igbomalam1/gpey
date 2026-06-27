@@ -109,7 +109,7 @@
             <?php endif; ?>
 
             <form method="post" class="ninForm">
-                <div class="input-style input-style-always-active has-borders mb-3">
+                <div class="input-style input-style-always-active has-borders mb-4">
                     <label class="color-theme opacity-80 font-700 font-12">Slip Type</label>
                     <select name="slip_type" class="form-control" required>
                         <option value="">Select Slip Type</option>
@@ -121,7 +121,7 @@
                     </select>
                 </div>
 
-                <div class="input-style input-style-always-active has-borders mb-3">
+                <div class="input-style input-style-always-active has-borders mb-4">
                     <label class="color-theme opacity-80 font-700 font-12">Verification Type</label>
                     <select name="verification_type" id="verification_type" class="form-control" required>
                         <option value="">Select Verification Type</option>
@@ -130,12 +130,14 @@
                     </select>
                 </div>
 
-                <div class="input-style input-style-always-active has-borders mb-3">
+                <div class="input-style input-style-always-active has-borders mb-4">
                     <label class="color-theme opacity-80 font-700 font-12" id="nin_label">Enter NIN Number</label>
                     <input type="number" name="nin_number" id="nin_number" placeholder="11-digit NIN" value="" class="round-small" required maxlength="11">
                 </div>
 
-                <button type="submit" name="verify-nin" style="width: 100%;" class="btn btn-full btn-l font-600 font-15 gradient-highlight mt-2 rounded-s">
+                <hr class="mt-4 mb-4">
+
+                <button type="submit" name="verify-nin" style="width: 100%;" class="btn btn-full btn-l font-600 font-16 gradient-highlight rounded-s">
                     <i class="fa fa-check-circle mr-2"></i> Verify NIN
                 </button>
             </form>

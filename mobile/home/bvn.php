@@ -32,7 +32,7 @@
             <div class="alert alert-danger text-center font-13 mb-3"><i class="fa fa-exclamation-circle me-2"></i> <?php echo $result->msg; ?></div>
             <?php endif; ?>
             <form method="post">
-                <div class="input-style input-style-always-active has-borders mb-3">
+                <div class="input-style input-style-always-active has-borders mb-4">
                     <label class="color-theme opacity-80 font-700 font-12">Service Type</label>
                     <select name="plan" class="form-control" required>
                         <option value="">Select Service</option>
@@ -41,11 +41,12 @@
                         <?php endforeach; endif; ?>
                     </select>
                 </div>
-                <div class="input-style input-style-always-active has-borders mb-3">
+                <div class="input-style input-style-always-active has-borders mb-4">
                     <label class="color-theme opacity-80 font-700 font-12">BVN Number</label>
                     <input type="number" name="bvn_number" class="form-control" placeholder="Enter 11-digit BVN" required>
                 </div>
-                <button type="submit" name="verify-bvn" style="width:100%" class="btn btn-full btn-l font-600 font-15 gradient-highlight mt-2 rounded-s"><i class="fa fa-search mr-2"></i> Verify BVN</button>
+                <hr class="mt-4 mb-4">
+                <button type="submit" name="verify-bvn" style="width:100%" class="btn btn-full btn-l font-600 font-16 gradient-highlight rounded-s"><i class="fa fa-search mr-2"></i> Verify BVN</button>
             </form>
             <?php endif; ?>
         </div>

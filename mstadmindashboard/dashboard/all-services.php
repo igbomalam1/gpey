@@ -118,8 +118,64 @@
         <div class="box">
             <div class="box-body">
                 <div class="text-center">
+                    <h2 class="fa fa-university text-info font-size-50"></h2>
+                    <h2 class="mb-2 mt-2">BVN Pricing</h2>
+                    <a class="btn btn-info btn-block" href="<?php echo $urlAddon; ?>verification-pricing"> 
+                        Manage <i class="fa fa-forward" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="box">
+            <div class="box-body">
+                <div class="text-center">
+                    <h2 class="fa fa-phone text-info font-size-50"></h2>
+                    <h2 class="mb-2 mt-2">Buy Number Pricing</h2>
+                    <a class="btn btn-info btn-block" href="<?php echo $urlAddon; ?>verification-pricing"> 
+                        Manage <i class="fa fa-forward" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="box">
+            <div class="box-body">
+                <div class="text-center">
+                    <h2 class="fa fa-user-secret text-info font-size-50"></h2>
+                    <h2 class="mb-2 mt-2">Buy Logs Pricing</h2>
+                    <a class="btn btn-info btn-block" href="<?php echo $urlAddon; ?>verification-pricing"> 
+                        Manage <i class="fa fa-forward" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="box">
+            <div class="box-body">
+                <div class="text-center">
+                    <h2 class="fa fa-rocket text-info font-size-50"></h2>
+                    <h2 class="mb-2 mt-2">Boost Socials Pricing</h2>
+                    <a class="btn btn-info btn-block" href="<?php echo $urlAddon; ?>verification-pricing"> 
+                        Manage <i class="fa fa-forward" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="box">
+            <div class="box-body">
+                <div class="text-center">
                     <h2 class="fa fa-check-square-o text-info font-size-50"></h2>
-                    <h2 class="mb-2 mt-2">Services Pricing</h2>
+                    <h2 class="mb-2 mt-2">Verification Pricing</h2>
                     <a class="btn btn-info  btn-block" href="<?php echo $urlAddon; ?>verification-pricing"> 
                         Manage <i class="fa fa-forward" aria-hidden="true"></i>
                     </a>
