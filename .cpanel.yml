@@ -15,4 +15,5 @@ deployment:
     - /bin/cp -r static $DEPLOYPATH
     - /bin/cp -r webhook $DEPLOYPATH
     - /bin/cp -r app $DEPLOYPATH
+    - /bin/cp .htaccess $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
